@@ -1,7 +1,48 @@
 # SeabenD Pages
 
 
-# Header 1
+# Books & Note
+## Matlab
+- Books
+- Note
+
+
+- 
+
+## Computer
+- Books
+C
+Vscode
+github
+
+- Note
+- 
+## Control system
+- Books
+- Note
+## Power Electic
+- Books
+- Note
+## Motor
+- Books
+ASM
+PSM
+BLDC
+
+- Note
+Em-loss analysis
+FOC-ASM
+FOC-IPM
+
+## Communication
+CAN bus
+
+
+## Other
+Active Damping
+
+
+
 ## Header 2
 ### Header 3
 

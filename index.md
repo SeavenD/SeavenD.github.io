@@ -3,43 +3,42 @@
 
 # Books & Note
 ## Matlab
-- Books
-- Note
+### Books
 
+### Note
 
-- 
 
 ## Computer
-- Books
-C
-Vscode
-github
+### Books
+- C
+- Vscode
+- github
 
-- Note
-- 
+### Note
+
 ## Control system
-- Books
-- Note
+### Books
+### Note
 ## Power Electic
-- Books
-- Note
+### Books
+### Note
 ## Motor
-- Books
-ASM
-PSM
-BLDC
+### Books
+- ASM
+- PMSM
+- BLDC
 
-- Note
-Em-loss analysis
-FOC-ASM
-FOC-IPM
+### Note
+- Em-loss analysis
+- FOC-ASM
+- FOC-IPM
 
 ## Communication
-CAN bus
+- CAN bus
 
 
 ## Other
-Active Damping
+-Active Damping
 
 
 

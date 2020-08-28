@@ -39,8 +39,8 @@
 
 ## Other
 -Active Damping
-
-
+### links
+- [知乎-如何理解离散傅里叶变换及Z变换](https://zhuanlan.zhihu.com/p/45114376?utm_source=com.tencent.mtt&utm_medium=social&utm_oi=1161620746316546048)
 
 ## Header 2
 ### Header 3

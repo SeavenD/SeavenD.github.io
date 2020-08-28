@@ -1,7 +1,5 @@
 # SeabenD Pages
 
-
-# Books & Note
 ## Matlab
 ### Books
 
@@ -19,9 +17,11 @@
 ## Control system
 ### Books
 ### Note
+
 ## Power Electic
 ### Books
 ### Note
+
 ## Motor
 ### Books
 - ASM

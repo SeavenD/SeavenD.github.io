@@ -18,10 +18,15 @@
 
 ## Control system
 ### Books
+- 维纳:控制论
+- 刘金坤PID
+- 自动控制原理
 ### Note
+- PID
 
 ## Power Electic
 ### Books
+- Bose 
 ### Note
 
 ## Motor

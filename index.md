@@ -23,11 +23,15 @@
 - 自动控制原理
 ### Note
 - PID
+- Fuzzy
+
 
 ## Power Electic
 ### Books
 - Bose 
 ### Note
+- IGBT
+- Mosfet
 
 ## Motor
 ### Books
@@ -38,7 +42,9 @@
 ### Note
 - Em-loss analysis
 - FOC-ASM
-- FOC-IPM
+- FOC-PMSM
+- Model-ASM
+- Model-PMSM
 
 ## Communication
 - CAN bus

@@ -33,7 +33,7 @@
 - IGBT
 - Mosfet
 
-## Motor
+## E-Motor
 ### Books
 - ASM
 - PMSM
